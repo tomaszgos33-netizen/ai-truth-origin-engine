@@ -1,0 +1,9 @@
+/
+├─ README.md
+├─ ARCHITEKTURA.md
+├─ MAPA_DROGOWA.md
+├─ LICENCJA
+├─ .gitignore
+└─ ip/
+   ├─ AI_ORIGIN_FINGERPRINT.md
+   ├─ AI_ORIGIN_ODCISK_PALCA.md
